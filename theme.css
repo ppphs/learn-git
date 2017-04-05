@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	background-color: black;
+}
+
+#father{
+	height: 100%;
+	background-color: #fff; 
+	padding: 0px;
+}
+
+#div1{
+	background-color: red;
+	min-height: 100%;
+	width: 30%;
+	margin: 0 auto;
+}
+
+#div2{
+	background-color: blue;
+	height: 30%;
+	width: 30%;
+	margin: 0 auto;
+}
+
+#div3{
+	background-color: green;
+	height: 30%;
+	width: 30%;
+	margin: 0 auto;
+}
