@@ -1,4 +1,4 @@
 This is phs first time to use git.
-Git is amazing.
+Git is amazing,i like it.
 Change file.
 New new new.
